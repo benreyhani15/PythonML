@@ -22,5 +22,4 @@ The four different folders contain code being applied to a different dataset:
 4) MNISTDigitClassification - Classification algorithms when applied to MNIST handwritten digit dataset for binary classification of 4 vs 9 (hardest 1 vs 1 pair): http://yann.lecun.com/exdb/mnist/
 	- 'sgd-based_svm.py': Trains using stochastic gradient descent with momentum a linear SVM model and tests it using MNIST dataset
 	
-
-
+Technologies used: Python, NumPy, SciPy, Pandas, SciKit-learn, Matplotlib
